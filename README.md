@@ -28,12 +28,6 @@ Data was processed on the NCBI's [GEO2R](https://www.ncbi.nlm.nih.gov/geo/info/g
 
 ![image](https://github.com/alitermos/MDA-MB-231_differential-expression-analysis/assets/38148633/0a688426-6fe9-4957-9f6f-5d4b46a41283)
 
-# Conclusions
-
-![image](https://github.com/alitermos/MDA-MB-231_differential-expression-analysis/assets/38148633/e995a8f1-fb37-4915-8d8f-8c6c3304f2b3)
-
-![image](https://github.com/alitermos/MDA-MB-231_differential-expression-analysis/assets/38148633/6249517c-3cbc-4785-9e5b-085f0a1a1354)
-
 # References 
 
 ![image](https://github.com/alitermos/MDA-MB-231_differential-expression-analysis/assets/38148633/d7266a26-21f7-4304-8a30-047eb1e82c55)
